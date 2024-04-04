@@ -24,9 +24,15 @@ Welcome to the Python Security Camera project! This is a robust and efficient se
 
 2. Install the necessary libraries using pip:
 
+3. To run the script run the main python file camera.py
+
 ```bash
 pip install opencv-python
 ```
+
+## 🎥 Video File
+
+The video files will be stored in the same directory where the program is saved. Therefore ⚠️ remember to save the script in a seperate folder before running the script
 
 ## 🕹️ How It Works
 
